@@ -1,4 +1,4 @@
-- 👋 Hi, I’m .NET/GO Developer
+- 👋 Hi, I’m Software Developer
 <br>
 <br>
 
