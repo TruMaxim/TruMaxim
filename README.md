@@ -16,17 +16,17 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/>
   <br>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="GO"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="Mac OS"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <br>
   <img src="XXXXXXXX" alt="XXXXXX"/>
   <img src="XXXXXXXX" alt="XXXXXX"/>
   <img src="XXXXXXXX" alt="XXXXXX"/>
