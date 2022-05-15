@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Software Developer
+- 👋 Hi, I'm Maxim. I am a software developer.
 <br>
 <br>
 
