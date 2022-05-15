@@ -27,38 +27,9 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="Mac OS"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   <br>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
-  <img src="XXXXXXXX" alt="XXXXXX"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
 </div>
 
 
